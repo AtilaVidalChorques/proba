@@ -6,7 +6,7 @@
 ##### Esto es un encabezado h5
 ###### Esto es un encabezado h6
 
-#negrita y cursiva
+# negrita y cursiva
 **negrita**
 *cursiva*
 
