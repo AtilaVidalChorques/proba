@@ -16,11 +16,11 @@
 * Item 4
 
 # Tablas
-| Encabezado 1 | Encabezado 2 | Encabezado 3
-| --- | --- | --- | ---
-| Fila 1.1 | Fila 1.2 | Fila 1.3
-| Fila 2.1 | Fila 2.2 | Fila 2.3
-| Fila 3.1 | Fila 3.2 | Fila 3.3
+| Nombre | Edad | Ciudad |
+|---|---|---|
+| Ana | 25 | Madrid |
+| Juan | 30 | Barcelona |
+| María | 22 | Valencia |
 
 # Forzar saltos de linea
 Por ejemplo, en esta frase  
