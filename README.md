@@ -6,9 +6,10 @@
 ##### Esto es un encabezado h5
 ###### Esto es un encabezado h6
 
-# negrita y cursiva
+# negrita , cursiva y resaltar
 **negrita**
 *cursiva*
+En esta frase estamos resaltado el comando `ls -la`.
 
 # Listas
 * Item 1
@@ -29,3 +30,5 @@
 # Forzar saltos de linea
 Por ejemplo, en esta frase  
 hemos forzado un salto de línea.
+
+![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
