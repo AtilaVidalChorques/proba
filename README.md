@@ -32,3 +32,7 @@ Por ejemplo, en esta frase
 hemos forzado un salto de línea.
 
 ![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
+
+
+
+[Foto perro](https://www.infobae.com/resizer/v2/OZTGVX562FGIBILJ4O7D5PMFF4.jpg?auth=b44310f4ec90067c2d74240975e8c24ac11e6453af2a166e7c6860f496aeef8e&smart=true&width=1200&height=1200&quality=85)
